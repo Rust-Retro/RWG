@@ -2,6 +2,8 @@
 
 <img src="logos/rwg-render-scaled.gif" align="right" width="256">
 
+_"Now old iron can rust too"_
+
 This repository and assosiated issue tracker is for coordinating and managing members of the Retro Working Group.
 
 ## Goals:
