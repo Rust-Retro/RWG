@@ -1,6 +1,6 @@
 # Retro Technologies Working Group (RWB)
 
-<img src="logos/rwg-render-full.gif" align="right" width="256">
+<img src="logos/rwg-render-scaled.gif" align="right" width="256">
 
 This repository and assosiated issue tracker is for coordinating and managing members of the Retro Working Group.
 
