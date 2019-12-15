@@ -1,4 +1,4 @@
-# Assosiated Projects
+# Associated Projects
 This is a list of projects related to or useful for the RWG's goals. These projects are not affiliated with the RWG in any way and are probably not even aware of our operations:
 
 | Project | Description |
