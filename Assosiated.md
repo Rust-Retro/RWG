@@ -1,5 +1,6 @@
 # Assosiated Projects
 This is a list of projects related to or useful for the RWG's goals. These projects are not affiliated with the RWG in any way and are probably not even aware of our operations:
+
 | Project | Description |
 | ------- | ----------- |
 | [Parasol](https://github.com/cr1901/parasol) | An SSL accelerator for old IBM PC compatibles |
