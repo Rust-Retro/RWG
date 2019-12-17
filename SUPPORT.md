@@ -2,7 +2,7 @@
 
 ## By CPU / Architecture
 
-| Vendor   | Microarchitecture  | LLVM Backend | Rust out-of-tree target  | Rust in-tree target ||
+| Vendor   | Microarchitecture  | LLVM Backend | Rust out-of-tree target  | Rust in-tree target  |
 |----------|--------------------|--------------|--------------------------|----------------------|
 | Foo      | Bar                | No           | No                       | No                   |
 
