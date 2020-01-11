@@ -1,4 +1,7 @@
 # Introducing The Retro Working Group
+
+<img src="logos/rwg-render-scaled.gif" align="right" width="260">
+
 ### (Unoffical) Working Group for growng Rust on old metal.
 
 The retro working group was founded to provide a home to the plaftforms and targets that fall under "everything else". As our name suggests most of these platforms are old or obsolete. 
