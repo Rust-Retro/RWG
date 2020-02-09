@@ -11,6 +11,6 @@ This is a list of projects related to or useful for the RWG's goals. These proje
 | [Neotron](https://github.com/Neotron-Compute) | A neo-retro PC build for Rust (Affiliated) |
 | [Parasol](https://github.com/cr1901/parasol) | An SSL accelerator for old IBM PC compatibles |
 | [Prussia](https://github.com/ZirconiumX/prussia) | A PlayStation 2 SDK |
-| [rustc codegen cranelift](https://github.com/bjorn3/rustc_codegen_cranelift/) | [WIP] [Crainlift](https://github.com/bytecodealliance/cranelift) codegen backen for LLVM, Rust -> Cranelift |
+| [rustc codegen cranelift](https://github.com/bjorn3/rustc_codegen_cranelift/) | [WIP] [Cranelift](https://github.com/bytecodealliance/cranelift) codegen backend for Rust -> Cranelift |
 | [Rust Console](https://github.com/rust-console) | An unoffical WG for game console development, new and old |
 | [Writing an OS in Rust](https://os.phil-opp.com/) | Useful book about Rust OS development |
