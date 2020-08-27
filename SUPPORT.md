@@ -89,8 +89,18 @@ This list is incomplete. Please help complete it!
 | FreeBSD  | FreeBSD              | powerpc64         | Yes          | No                  |
 | FreeBSD  | FreeBSD              | x86_64            | Yes          | Yes                 |
 
+# What is the oldest machine I could compile Rust code for?
 
+Let's assume we're allowed to upgrade the OS on this machine to the latest support (as opposed to what it shipped with).
 
+The 386 support was supported up to Debian Woody, the 486 was supported up to Debian Lenny, and the Pentium was supported up to Debian Jessie (Kernel 3.16). The i586-unknown-linux-musl target *should* support Linux kernel 2.6.39 or higher, so, I think you could compile a full stdlib Rust program for a **Pentium 60** (a machine from early 1993) running Debian Jessie.
 
+Of course, if you're prepared to transpile your Rust into C first, then you could go much further back.
 
+# What is the oldest machine I could run the Rust Compiler on (if I had enough RAM/swap)?
 
+For this, we scan https://doc.rust-lang.org/nightly/rustc/platform-support.html and look for a tick in the "Host" column.
+
+The i686-unknown-linux-gnu target works back to Kernel 2.6.32 and glibc 2.11, so you could find yourself a Pentium Pro (from late 1995) and run Debian Squeeze on it (which comes with Kernel 2.6.32). But you'll need a lot of RAM (or a lot of swap and a whole lot more patience).
+
+Can anyone beat that?
